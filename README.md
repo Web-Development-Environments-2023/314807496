@@ -4,4 +4,6 @@
 id: 314807496
 website link: https://web-development-environments-2023.github.io/314807496/
 
+qrcode part- changed the qr after renaming the repo and for some reason in the website it shows the old one even though when getting into the qr picture we see the new one
+
 info : my grandpa recently past away so I didn't want to create this website about someone from my family(not ready yet) so created about michael jordan- an inspiration to alot of people
