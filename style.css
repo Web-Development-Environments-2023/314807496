@@ -5,3 +5,26 @@
 	height: 140px;
 	background: red;
 }
+
+#about
+{
+	width: 100%;
+	background: blue;
+}
+h1
+{
+	color: green;
+}
+h2
+{
+	color: yellow;
+}
+h2
+{
+	color: black;
+}
+#like
+{
+	width: 100%;
+	background: yellow;
+}
